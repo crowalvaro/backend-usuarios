@@ -1,0 +1,2 @@
+https://logback.qos.ch/manual/configuration.html
+https://www.adictosaltrabajo.com/2016/03/28/tutorial-logback-en-spring-boot/
